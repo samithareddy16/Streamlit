@@ -2,6 +2,5 @@ streamlit
 pandas
 numpy
 scikit-learn
-joblib
-gurobipy_pandas>=1.2.0,<1.3.0
-gurobi-machinelearning
+pyngrok
+os
