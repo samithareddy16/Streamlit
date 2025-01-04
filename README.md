@@ -1,2 +1,2 @@
 # Streamlit
-Stremlit Project
+Streamlit Project
